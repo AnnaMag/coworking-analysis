@@ -37,7 +37,7 @@ Questions to ask:
 - alternatives to meet-up data— in many places its not popular or has local alternatives, which leads to:
 - data enrichment: e.g. mapping geo locations of hubs and coworking spaces (this dates global), correlate it with the rise of (e.g. digital) start-ups or ‘freelancers/consultants’
 - female participation in coworking: is there gender balance? 
-- *coworking* is not the only term that can be used (freelance?)
+- *coworking* is not the only term that can be used (freelance?):
 
-![Alt text](https://github.com/AnnaMag/coworking-analysis/blob/master/categ_trans_moriset.jpg.jpg?raw=true “coworking”)
+![Alt text](https://github.com/AnnaMag/coworking-analysis/blob/master/categ_trans_moriset.jpg?raw=true “coworking”)
 Coworking spaces and the blurring of categories, Bruno Moriset, “Building new places of the creative economy. The rise of coworking spaces.2013.“, 2nd Geography of Innovation International Conference 2014
