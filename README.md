@@ -1,3 +1,4 @@
+# coworking-analysis
 http://www.analyticsvidhya.com/blog/2015/08/data-scientist-meetup-hack/
 https://hivos.org/news/coworking-mediterranean-driving-force-behind-regions-creative-economy
 
