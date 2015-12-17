@@ -1,6 +1,5 @@
 # coworking-analysis
-#Creative economy and the future of work through the lens of meetup.
-
+![Alt text](https://github.com/AnnaMag/coworking-analysis/blob/master/ce1.jpg?raw=true “coworking”)
 
 >”Today’s economy is fundamentally a Creative Economy. I certainly agree with those who say that the advanced nations are shifting to >information-based, knowledge-driven economies… Yet I see creativity… as the key driver. In my formulation, ‘knowledge’ and ‘information’ >are the tools and materials of creativity.” (Richard Florida, “The Rise of the Creative Class”)
 
@@ -25,7 +24,7 @@ In brief, the motivations behind gathering the data could be outlined as follows
 * compare how meetups members rank their corresponding events
 * approximate the definition of the coworking phenomenon using the words of the members of the movement using topics, categories labeling the groups, as well as descriptions provided. This aims to be an approximation to the local and cultural context and an indicator of future directions (needless to say, requires enriching the data for additional info).
 
-##Coworking is a universal term and is not translated into respective languages. We fetched the data on groups with *coworking* in its topic description.
+## Coworking is a universal term and is not translated into respective languages. We fetched the data on groups containing the word *coworking* in their topic descriptions.
 
 
 ## Notes and comments on data enrichment
