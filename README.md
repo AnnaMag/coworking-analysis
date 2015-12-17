@@ -1,86 +1,39 @@
 # coworking-analysis
-http://www.analyticsvidhya.com/blog/2015/08/data-scientist-meetup-hack/
-https://hivos.org/news/coworking-mediterranean-driving-force-behind-regions-creative-economy
-
-https://www.youtube.com/watch?time_continue=43&v=bLfgHVAqREo
-http://rosettacode.org/wiki/Using_the_Meetup.com_API#JavaScript
-
-http://www.crowdflower.com/blog/crowdflower-meet-up-scraping-enriching-and-visualizing-data
-http://www.innovationmanagement.se/imtool-articles/how-do-you-define-innovation-and-make-it-practical-and-saleable-to-senior-management/
-http://www.nesta.org.uk/blog/using-meetup-data-explore-uk-digital-tech-landscape
-
-## meetu analayis
-http://trendct.org/2015/04/03/using-python-and-r-to-pull-and-analyze-meetup-com-api-data/
-https://secure.meetup.com/meetup_api/key/
-2616c34a1e722b121d3e149d3523
-
-# twitter
-http://ruebot.net/post/look-14939154-paris-bataclan-parisattacks-porteouverte-tweets
+#Creative economy and the future of work through the lens of meetup.
 
 
-## mapping income
-https://github.com/andrewbtran/district_income
-MAPS
-http://techslides.com/list-of-countries-and-capitals
-http://techslides.com/map-maker-and-editor-with-d3-js
-
-http://www.johnhowkins.com/wordpress/?page_id=9
-t is the first kind of economy where imagination and ingenuity decide what people want to do and make. And what they want to buy.
-
-The largest sectors are art, culture, design, entertainment, media and innovation.
-
-These have different values and business models but are united by people who are passionate about new concepts and developing new ideas as part of their daily work. They put a higher value on what their work means.
-
-A creative economy is measured just like any other: demand, price, profit and margins.  We also look at jobs, output and productivity.
-
-Every new economy changes how people live. The industrial revolution brought change not only to the workplace but also to homes and cities.
-
-The rise of the creative economy marks another sea-change in our lives. It is leading to new ideas about how and where people work and is beginning to re-shape our cities. It is disrupting relationships between workers and managers and investors. It is driving the new digital start-ups, affecting education, and changing the nature of jobs and employment.
-
-At the heart of today’s changes is the private determination of individuals to think of new and often surprising ideas that might stimulate others. Brought together, these people are fuelling the creative economy and shaping the future.
-
-Artistic services and intellectual capital are inarguably essential to the 21st 
-century economy, which is dynamic, knowledge-based, and increasingly global. 
-Indeed, the United Nations Conference on Trade and Development’s 
-Creative Economy Report 2010 asserts: “Adequately nurtured, creativity fuels culture, 
-infuses a human-centred [sic] development and constitutes the key ingredient 
-for job creation, innovation and trade while contributing to social inclusion, 
-cultural diversity and environmental sustainability.” 
-
-https://www.gov.uk/government/statistics/creative-industries-economic-estimates-january-2014
-
-can be enriched with http://www.crowdflower.com/#
-
-OPEn refine
-The errors that can be fixed include:
-
-    Date formats
-    Multiple representations
-    Duplicate records
-    Redundant data
-    Mixed numerical scales
-    Mixed ranges
-TOPIC modeling
-https://nadbordrozd.github.io/blog/2015/11/29/ds-toolbox-topic-models/
-
-#########
-The creative economy consists of the transactions in … creative products. Each transaction may have two complementary values, the value of the intangible, intellectual property and the value of the physical carrier or platform (if any).  In some industries, such as digital software, the intellectual property value is higher. In others, such as art, the unit cost of the physical object is higher.
-(John Howkins, The Creative Economy)
-########
-Today’s economy is fundamentally a Creative Economy. I certainly agree with those who say that the advanced nations are shifting to information-based, knowledge-driven economies… Yet I see creativity… as the key driver. In my formulation, ‘knowledge’ and ‘information’ are the tools and materials of creativity.
-(Richard Florida, The Rise of the Creative Class)
-
-http://lateralaction.com/articles/creative-economy/
-
-Measuring the value of the creative economy is not easy and depends on which definition you adopt. However it is already a significant proportion of the world economy, particularly in the more developed areas. The following estimates are from the Work Foundation report, based on figures published in 2004 by the Organisation for Economic Co-operation and Development:
+>”Today’s economy is fundamentally a Creative Economy. I certainly agree with those who say that the advanced nations are shifting to >information-based, knowledge-driven economies… Yet I see creativity… as the key driver. In my formulation, ‘knowledge’ and ‘information’ >are the tools and materials of creativity.” (Richard Florida, “The Rise of the Creative Class”)
 
 
-https://books.google.pl/books?id=sPkaCAAAQBAJ&pg=PA9&lpg=PA9&dq=creative+economy+catch+phrases&source=bl&ots=xvFpHR-MOj&sig=ECZ8SjkSBYVE2VCR9JyNOL9Wj-s&hl=en&sa=X&ved=0ahUKEwjR-KeA59vJAhVhvHIKHWQzDBcQ6AEIJjAB#v=onepage&q=creative%20economy%20catch%20phrases&f=false
-http://code.tutsplus.com/tutorials/how-to-scrape-web-pages-with-nodejs-and-jquery--net-22478
-http://www.europeandataportal.eu/elearning/en/module13/#/id/co-01
-http://www.spencergreenhalgh.com/2015/12/01/a-glimpse-at-twitter-teachers-and-terrorism-part-1-finding-a-hashtag/
-https://automatetheboringstuff.com/chapter14/
-https://automatetheboringstuff.com/chapter11/
-https://github.com/geopy/geopy
+21st century economy is dynamic, knowledge-based and increasingly global. Artistic ventures, creative and intellectual capital are inarguably essential parts of it. Creative economy, of which art, culture, design, entertainment, media and innovation are part of, changes how people live. It is imagination and ingenuity that decide what people want to do, make and buy.
 
 
+>“Adequately nurtured, creativity fuels culture, infuses a human-centered development and constitutes the key ingredient 
+>for job creation, innovation and trade while contributing to social inclusion, cultural diversity and environmental sustainability.” 
+>United Nations Conference on Trade and Development Creative Economy Report 2010 
+
+Across all parts of the world, men and women from a variety of backgrounds are participating in spreading a new movement of creative spaces. The digital and creative economies are growing rapidly and are fueled in part by a stronger network of collaborative, shared working (coworking) spaces, accelerators, incubators and investors. 
+
+Initially born out of necessity, they became more than just places to work and are places-to-be (understood as social practice). Coworking spaces gather people who are passionate about new, stimulating concepts and developing new ideas as part of their daily work. Brought together in these hubs, they are fueling the creative economy and shaping the future of the cities. Whatever it is that is being created, be it a physical product or an abstract solution, all is based on sets of values and business models, which are placing meaning at the forefront of the work.
+
+Coworking as s a lifestyle is changing the approach to entrepreneurship and creative endeavors. It is where new digital start-ups come into being, where education is re-defined and the nature of jobs and employment changed. They serve as an anchor for communities of motivated and creative individuals and transform the ways in which people work, reinvigorating and re-shaping urban cultural and digital landscapes. 
+
+This is clearly just the beginning. The implications of this emerging phenomenon on the cultural, economic, political and social transformation of the cities (and its future directions) has not yet been measured or understood. As cultural and networking events serve to further catalyze the movement, this initial study looks at the data on meetups (Meetup.com) created around the concept of coworking in a selection of european cities. The underlying assumption behind this attempt is that the groups themselves (where the creatives join together to learn, connect, get inspired and initiate new creative ecosystems) can provide us with an approximation to the definition, motivations, and a glimpse into the near future of “work”.
+
+In brief, the motivations behind gathering the data could be outlined as follows: 
+* compare the number and size of meetup groups across different cities
+* compare how meetups members rank their corresponding events
+* approximate the definition of the coworking phenomenon using the words of the members of the movement using topics, categories labeling the groups, as well as descriptions provided. This aims to be an approximation to the local and cultural context and an indicator of future directions (needless to say, requires enriching the data for additional info).
+
+##Coworking is a universal term and is not translated into respective languages. We fetched the data on groups with *coworking* in its topic description.
+
+
+## Notes and comments on data enrichment
+The analysis is an approximation as meetup data on its own (interpreting the numbers) is a rough estimator. The analysis aims to build and intuition around the topic
+
+Questions to ask:
+
+- number should be normalize by overall meetup “popularity” in a particular region. Are there any country specific alternatives to meetups?
+- female participation in coworking: is there gender balance? 
+- mapping geo locations of hubs and correlate it with the rise of (e.g. digital) start-ups or number of freelancers
+- *coworking* is not the only term that can be used
