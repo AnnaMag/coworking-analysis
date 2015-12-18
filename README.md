@@ -40,4 +40,5 @@ Questions to ask:
 - *coworking* is not the only term that can be used (freelance?):
 
 ![Alt text](https://github.com/AnnaMag/coworking-analysis/blob/master/categ_trans_moriset.jpg?raw=true “coworking”)
-Coworking spaces and the blurring of categories, Bruno Moriset, “Building new places of the creative economy. The rise of coworking spaces.2013.“, 2nd Geography of Innovation International Conference 2014
+
+ (Coworking spaces and the blurring of categories from: Bruno Moriset, “Building new places of the creative economy. The rise of coworking spaces.“, 2nd Geography of Innovation International Conference 2014)
